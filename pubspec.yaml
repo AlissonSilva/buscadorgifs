@@ -30,8 +30,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  share: ^0.6.1+1
-  transparent_image: ^1.0.0
+  share: ^2.0.4
+  transparent_image: ^2.0.0
   http: ^0.13.3
 
 
